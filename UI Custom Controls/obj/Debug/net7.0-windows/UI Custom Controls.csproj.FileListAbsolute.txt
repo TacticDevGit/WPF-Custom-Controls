@@ -1,0 +1,25 @@
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\bin\Debug\net7.0-windows\UI Custom Controls.exe
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\bin\Debug\net7.0-windows\UI Custom Controls.deps.json
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\bin\Debug\net7.0-windows\UI Custom Controls.runtimeconfig.json
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\bin\Debug\net7.0-windows\UI Custom Controls.dll
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\bin\Debug\net7.0-windows\UI Custom Controls.pdb
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls_MarkupCompile.cache
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls_MarkupCompile.lref
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\Themes\Generic.baml
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls.g.resources
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls.dll
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\refint\UI Custom Controls.dll
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls.pdb
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\UI Custom Controls.genruntimeconfig.cache
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\ref\UI Custom Controls.dll
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\FanUC.g.cs
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\FanUC.baml
+C:\Users\Jamie\source\repos\UI Custom Controls\UI Custom Controls\obj\Debug\net7.0-windows\App.baml

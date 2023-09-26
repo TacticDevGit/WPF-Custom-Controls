@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UI Custom Controls/1.0.0": {
+        "runtime": {
+          "UI Custom Controls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UI Custom Controls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
